@@ -1,7 +1,8 @@
 # -*- coding:utf-8 -*-
 import numpy as np
 from PyQt5 import QtCore
-from cerebus import cbpy
+# from cerebus import cbpy
+from .dummy_cbpy import DummyCbpy as cbpy
 
 
 class rContinuous(QtCore.QThread):
