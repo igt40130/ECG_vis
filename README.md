@@ -12,5 +12,4 @@
 - CereLink (v3.1)  <https://github.com/dashesy/CereLink/>
 
 ## Usage
-テスト
 '$python3 main.py -v'
