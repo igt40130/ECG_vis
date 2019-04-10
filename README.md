@@ -12,4 +12,5 @@
 - CereLink (v3.1)  <https://github.com/dashesy/CereLink/>
 
 ## Usage
-'$python3 main.py -v'
+Test without machine  
+`$python3 main.py -v`
